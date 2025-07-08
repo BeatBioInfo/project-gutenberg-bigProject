@@ -38,7 +38,7 @@ npm start
 - The script stores books **in memory** until **1GB is used**, then clears storage.  
 - Change the **memory limit** in `index.js`:  
   ```js
-  const MEMORY_LIMIT = 1 * 1024 * 1024 * 1024; // 1GB
+  const MEMORY_LIMIT = 2 * 1024 * 1024 * 1024; // 2GB
   ```
 - Modify the **API URL** if needed:  
   ```js
