@@ -69,6 +69,7 @@ This project is licensed under the **ISC License**.
 - [ ] Add support for **other book formats** (e.g., EPUB, MOBI).  
 - [ ] Store books in a **database or file system** instead of memory.  
 - [ ] Implement **error handling & retry mechanism** for failed requests.  
+- [ ] The next level **changes** to the file
 
 ---
 
