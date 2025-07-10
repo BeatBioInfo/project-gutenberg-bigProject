@@ -1,7 +1,7 @@
 const { https } = require("follow-redirects");
 
 const GUTENDEX_API = "https://gutendex.com/books/";
-const MEMORY_LIMIT = 2 * 1024 * 1024 * 1024; // 1GB in bytes
+const MEMORY_LIMIT = 1 * 1024 * 1024 * 1024; // 1GB in bytes
 let memoryUsage = 0;
 let textStorage = []; 
 
